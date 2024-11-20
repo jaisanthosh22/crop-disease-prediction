@@ -1,0 +1,39 @@
+﻿classnames,Pesticides,Shop Available,precision,recall ,f1-score,support
+Apple___Apple_scab,Capton,"Coimbatore farm supply,Saibaba colony ",0.9,0.64,0.75,504
+Apple___Black_rot,mancozeb ,"Coimbatore agro services, Gandhipuram ",0.79,0.95,0.86,497
+Apple___Cedar_apple_rust,mancozeb ,"Coimbatore agro services, Gandhipuram ",0.96,0.63,0.76,440
+Apple___healthy,chlorpyrifos ,Tamilnadu agriculture University store,0.82,0.79,0.8,502
+Blueberry___healthy,Capton,"Tamilnadu agriculture University store, coimbatore ",0.8,0.92,0.86,454
+Cherry_(including_sour)___Powdery_mildew,Azoxystrobin ,"Coimbatore agro services,Gandhipuram ",0.88,0.81,0.84,421
+Cherry_(including_sour)___healthy,,,0.91,0.93,0.92,456
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,mancozb,"Coimbatore agro services, Gandhipuram ",0.89,0.75,0.81,410
+Corn_(maize)___Common_rust_,chlorothalonil ,"Sri Ram agro services, RS puram ",0.97,0.97,0.97,477
+Corn_(maize)___Northern_Leaf_Blight,Myclobutanil,"United agro products,Sai Baba colony ",0.85,0.91,0.88,477
+Corn_(maize)___healthy,Mancozeb,Coimbatore agro services Gandhipuram ,0.94,0.98,0.96,465
+Grape___Black_rot,Carbendazim,"Coimbatore agro services, Gandhipuram ",0.92,0.76,0.83,472
+Grape___Esca_(Black_Measles),Fenhexamid,"Tamilnadu agriculture University store, coimbatore ",0.8,0.95,0.87,480
+Grape___Leaf_blight_(Isariopsis_Leaf_Spot),Azoxystrobin ,"Sri Ram agro agencies,RS puram",0.95,0.97,0.96,430
+Grape___healthy,Tebuconazole,"Tamilnadu agriculture University store, coimbatore ",0.95,0.93,0.94,423
+Orange___Haunglongbing_(Citrus_greening),nutritional treatments,"Sri Ram agro services, RS puram ",0.96,0.92,0.94,503
+Peach___Bacterial_spot,Oxytetracycline sprays,"Coimbatore agro services, Gandhipuram ",0.9,0.76,0.82,459
+Peach___healthy,imidacloprid ,"Coimbatore agro services, Gandhipuram ",0.93,0.93,0.93,432
+"Pepper,_bell___Bacterial_spot",imidacloprid ,"Coimbatore agro services, Gandhipuram ",0.85,0.73,0.79,478
+"Pepper,_bell___healthy",streptomycin,"Tamilnadu agriculture University store, coimbatore ",0.77,0.86,0.81,497
+Potato___Early_blight,chlorothalonil,"Sri Ram agro services,RS puram ",0.79,0.95,0.86,485
+Potato___Late_blight,Bacillus subtilis,"biocontrol research laboratory, coimbatore ",0.79,0.72,0.75,485
+Potato___healthy,Tebuconazole,"Tamilnadu agriculture University store, coimbatore ",0.73,0.91,0.81,456
+Raspberry___healthy,chlorpyrifos,Tamilnadu agriculture University store,0.87,0.95,0.91,445
+Soybean___healthy,imidacloprid ,"Coimbatore agro services, Gandhipuram ",0.9,0.88,0.89,505
+Squash___Powdery_mildew,mancozeb ,"Sri Ram agro services, RS puram ",0.88,0.97,0.92,434
+Strawberry___Leaf_scorch,Azoxystrobin ,"Tamilnadu agriculture University store, coimbatore ",0.89,0.87,0.88,444
+Strawberry___healthy,Azoxystrobin ,"Coimbatore agro services, Gandhipuram ",0.91,0.98,0.95,456
+Tomato___Bacterial_spot,copper oxychloride ,"Coimbatore agro services, Gandhipuram ",0.91,0.81,0.86,425
+Tomato___Early_blight,mancozeb ,"Coimbatore agro services, Gandhipuram ",0.55,0.71,0.62,480
+Tomato___Late_blight,Imidacloprid,"Coimbatore agro services, Gandhipuram ",0.81,0.5,0.62,463
+Tomato___Leaf_Mold,Mancozeb ,"Coimbatore agro services, Gandhipuram ",0.62,0.87,0.72,470
+Tomato___Septoria_leaf_spot,chlorothalonil ,"Coimbatore agro services, Gandhipuram ",0.83,0.36,0.5,436
+Tomato___Spider_mites Two-spotted_spider_mite,chlorothalonil ,"Sri Ram agro services, RS puram ",0.81,0.79,0.8,435
+Tomato___Target_Spot,fenbutatin oxide,"Sri Ram agro services, RS puram ",0.75,0.72,0.73,457
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,mancozeb ,"Coimbatore agro services, Gandhipuram ",0.95,0.94,0.94,490
+Tomato___Tomato_mosaic_virus,Abamectin ,"Coimbatore agro services, Gandhipuram ",0.89,0.97,0.93,448
+Tomato___healthy,Thiamethoxam,"Tamilnadu agriculture University store, coimbatore ",0.77,0.98,0.86,481
